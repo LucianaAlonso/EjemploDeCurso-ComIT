@@ -1,0 +1,13 @@
+C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\Ejercicio_dotnet_curso\bin\Debug\netcoreapp3.1\Ejercicio_dotnet_curso.exe
+C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\Ejercicio_dotnet_curso\bin\Debug\netcoreapp3.1\Ejercicio_dotnet_curso.deps.json
+C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\Ejercicio_dotnet_curso\bin\Debug\netcoreapp3.1\Ejercicio_dotnet_curso.runtimeconfig.json
+C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\Ejercicio_dotnet_curso\bin\Debug\netcoreapp3.1\Ejercicio_dotnet_curso.runtimeconfig.dev.json
+C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\Ejercicio_dotnet_curso\bin\Debug\netcoreapp3.1\Ejercicio_dotnet_curso.dll
+C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\Ejercicio_dotnet_curso\bin\Debug\netcoreapp3.1\Ejercicio_dotnet_curso.pdb
+C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\Ejercicio_dotnet_curso\obj\Debug\netcoreapp3.1\Ejercicio_dotnet_curso.csprojAssemblyReference.cache
+C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\Ejercicio_dotnet_curso\obj\Debug\netcoreapp3.1\Ejercicio_dotnet_curso.AssemblyInfoInputs.cache
+C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\Ejercicio_dotnet_curso\obj\Debug\netcoreapp3.1\Ejercicio_dotnet_curso.AssemblyInfo.cs
+C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\Ejercicio_dotnet_curso\obj\Debug\netcoreapp3.1\Ejercicio_dotnet_curso.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\Ejercicio_dotnet_curso\obj\Debug\netcoreapp3.1\Ejercicio_dotnet_curso.dll
+C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\Ejercicio_dotnet_curso\obj\Debug\netcoreapp3.1\Ejercicio_dotnet_curso.pdb
+C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\Ejercicio_dotnet_curso\obj\Debug\netcoreapp3.1\Ejercicio_dotnet_curso.genruntimeconfig.cache
